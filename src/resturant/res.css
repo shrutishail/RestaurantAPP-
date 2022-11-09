@@ -1,0 +1,71 @@
+
+#big{
+    background-image: url('../../public/foodpic/background.jpg');
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+
+#header{
+    display: flex;
+    justify-content: center;
+}
+#h1{
+    color:orange;
+}
+#nav{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+#parrent{
+    display: flex;
+}
+#div1{
+
+    display: flex;
+    justify-content: space-around;
+
+   
+    height: 1000px;
+    width: 100%;
+    background-image: url(../../public/foodpic/background.jpg);
+    
+   
+}
+#div2{
+
+    
+    margin-left: 25px;
+}
+#div3{
+   
+    background-color: orange;
+    
+    margin-left: 50px;
+    height: 300px;
+    width: 200px;
+    border: solid;
+    margin: 12px;
+}
+#div3:hover{
+    
+    
+    height: 350px;
+    width: 250px;
+    
+}
+#img{
+    height: 145px;
+    width: 200px;
+}
+#name{
+    color: white;
+    text-align: center;
+    text-decoration: solid;
+}
+#price{
+    color: white;
+}
+
